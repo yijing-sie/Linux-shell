@@ -4,7 +4,7 @@ Intro to Computer Systems assignment :
 
 
 
-### tsh.c is an interactive command-line interpreter that runs programs on behalf of the user
+### [tsh.c](tsh.c) is an interactive command-line interpreter that runs programs on behalf of the user
 
 * It runs each executable in its own child process and supports the following built-in commands:  
 
