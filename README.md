@@ -54,9 +54,12 @@ Here is the results for my shell (skip to the end to see the result score):
 
 
 
-https://user-images.githubusercontent.com/84282744/187299591-c4e0cbcc-ea0a-436e-b47d-81915e7ed420.mp4
 
 
+
+
+
+https://user-images.githubusercontent.com/84282744/187315470-cf853e59-c495-4773-bc96-3773d877b950.mp4
 
 
 
