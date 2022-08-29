@@ -35,7 +35,11 @@ tsh> jobs > foo
 ### Example of running an echo command via tsh
 
 
-https://user-images.githubusercontent.com/84282744/187297643-541e762a-a3ad-4029-8ec5-b1f00ae5358a.mp4
+
+https://user-images.githubusercontent.com/84282744/187314840-47922eee-dbd5-4e03-ada3-b2d728584c6e.mp4
+
+
+
 
 
 
