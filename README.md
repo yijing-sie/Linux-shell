@@ -11,7 +11,7 @@ To run my shell, type `tsh` to the command line:
 linux> ./tsh
 tsh> [type commands for tsh to run]
 ```
-* Each command may be either be the path to an executable file (e.g., ```tsh> /bin/ls```) or a builtin command (e.g., ```tsh> quit```)
+* Each command may be either the path to an executable file (e.g., ```tsh> /bin/ls```) or a builtin command (e.g., ```tsh> quit```)
 
 * It runs each executable in its own child process and supports the following built-in commands:  
 
@@ -44,12 +44,12 @@ https://user-images.githubusercontent.com/84282744/187314840-47922eee-dbd5-4e03-
 
 
 ### Evaluation
-* To test the implemented shell performance, the professor provided a driver program which runs 33 trace files on the [tsh.c](tsh.c), and to help detect race conditions in the codes, the driver runs each trace file 3 times. 
+* To test the implemented shell performance, the professor provided a driver program that runs 33 trace files on the [tsh.c](tsh.c), and to help detect race conditions in the codes, the driver runs each trace file 3 times. 
 
 > All the trace files can be found in [traces](traces)
 
-* The goal is to pass each of the runs to for all trace files get full points
-Here is the results for my shell (skip to the end to see the result score):
+* The goal is to pass each run for all trace files to get full points
+Here are the results for my shell (skip to the end to see the result score):
 
 
 
